@@ -7,8 +7,8 @@
  [![](https://img.shields.io/badge/Gmail-carlandrewcastanas55@gmail.com-red)](mailto:carlandrewcastanas55@gmail.com) [![](https://img.shields.io/badge/Linkedin-Carl%20Andrew%20Casta%C3%B1as-blue)](https://www.linkedin.com/in/carlcastanas/) 
   
  ### How to reach me:  
- <a href="mailto: carlandrewcastanas55@gmail.com"> 
- <img src="https://img.shields.io/badge/-carlandrewcastanas55%40gmail.com-7B83EB?&style=for-the-badge&logo=Microsoft-outlook&logoColor=white" ></a>  <a  href="https://www.instagram.com/ionictech1/">   <img src="https://img.shields.io/badge/@carlcastanas-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>  <a href="https://www.linkedin.com/in/carlcastanas/"><img src="https://img.shields.io/badge/carlcastanas-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" ></a>  <a  href="https://www.carlcastanas.netlify.app/"><img src="https://img.shields.io/badge/carlcastanas.github.io-%2312100E.svg?&style=for-the-badge&logo=safari&logoColor=white"></a> 
+ <a href="mailto: Chrisdamdoradoe@gmail.com "> 
+ <img src=" https://free.facebook.com/Dongdam2213?eav=AfZoW8ChWZphA6KV3F8ZWZuv6j7NH55G8jYswPp6YTk_5F_bLZgzjWOX13BYuc1JJfQ&ref_component=mfreebasic_home_header&ref_page=%2Fwap%2Fhome.php&refid=8&paipv=0 " ></a>  <a  href="https://www.instagram.com/ionictech1/">   <img src="https://img.shields.io/badge/@carlcastanas-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>  <a href="https://www.linkedin.com/in/carlcastanas/"><img src="https://img.shields.io/badge/carlcastanas-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" ></a>  <a  href="https://www.carlcastanas.netlify.app/"><img src="https://img.shields.io/badge/carlcastanas.github.io-%2312100E.svg?&style=for-the-badge&logo=safari&logoColor=white"></a> 
   
  ### Current Status Quo: 
   
