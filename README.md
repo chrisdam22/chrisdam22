@@ -2,6 +2,12 @@
 <h1 align="center">Hi 👋, I'm Chrisdam Dorado Echague</h1>
 <h3 align="center">Computer Science Student</h3>
 
+Im **Chrisdam Dorado Echague** also known as **Echague**, and I'm a **Computer Science Student**. **2ND YEAR COLLEGE.**
+At **Eulogio Amang Rodriguez Institute of Science and Technology.**
+I want to learn more programming language here in Github. My main objective is to have a lot of knowledge.<br><br> 
+ [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2349F707&lines=I'm+Chrisdam+Echague+22+years+old;+Bachelor+Of+Science+And+Technology;Someday+I+Become+Professional+Programmer;)](https://git.io/typing-svg) 
+  
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chrisdam22&label=Profile%20views&color=0e75b6&style=flat" alt="chrisdam22" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chrisdam22" alt="chrisdam22" /></a> </p>
